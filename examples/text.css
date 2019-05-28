@@ -1,0 +1,38 @@
+* {
+  font-size: 60px;
+  text-align: center;
+}
+
+#align-default {
+  flex-direction: column;
+}
+
+#emoji {
+  font-family: 'Noto Color Emoji';
+}
+
+#lorem_ipsum {
+  /* margin: 0px 50px; */
+  font-family: 'Noto Mono';
+}
+
+#french {
+  font-family: 'Ubuntu';
+}
+
+#hebrew {
+  font-size: 35px;
+  background-color: grey;
+  color: white;
+  line-height: 3.8;
+  word-spacing: 50px;
+  height: 50px;
+}
+
+#han {
+  font-family: 'Noto Sans CJK JP';
+}
+
+#devanagari {
+  font-family: 'Sahadeva';
+}
